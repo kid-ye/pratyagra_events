@@ -259,7 +259,7 @@ export default function HomePage() {
             <div className="md:col-span-5 relative group overflow-hidden haveli-frame">
               <img
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
-                src="haldi.jpg"
+                src="https://res.cloudinary.com/dgiuqsklr/image/upload/q_auto/f_auto/v1777071935/haldi_jvu6yx.jpg"
                 alt="Luxury desert safari wedding setup"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent flex flex-col justify-end p-12">
@@ -298,7 +298,7 @@ export default function HomePage() {
             <div className="md:col-span-8 relative group overflow-hidden haveli-frame">
               <img
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
-                src="sangeet.jpeg"
+                src="https://res.cloudinary.com/dgiuqsklr/image/upload/q_auto/f_auto/v1777071609/sangeet_atku5j.jpg"
                 alt="Lake Palace Udaipur illuminated at night"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent flex flex-col justify-end p-8">
