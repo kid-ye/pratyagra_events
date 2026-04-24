@@ -164,7 +164,7 @@ export default function HomePage() {
           <div className="about-frame">
             <img
               className="about-img"
-              src="history.jpg"
+              src="https://res.cloudinary.com/dgiuqsklr/image/upload/q_auto/f_auto/v1777071989/history_djql95.jpg"
               alt="Intricate hand-embroidered royal Rajasthani silk fabric"
             />
             {/* Floating accent card — anchored bottom-right, overlapping image */}
